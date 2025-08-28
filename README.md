@@ -67,3 +67,8 @@ export default tseslint.config([
   },
 ])
 ```
+npm v
+10.9.2
+
+node v
+22.14.0
